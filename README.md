@@ -10,3 +10,7 @@ start preparation
 next
 Devloper
 next
+Prepare resume for interview
+next
+have interview and select there
+get job!
