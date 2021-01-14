@@ -8,7 +8,9 @@ finish studies
 next
 start preparation 
 next
-Devloper
+Tester
+next
+go to testing learning classes.
 next
 Prepare resume for interview
 next
